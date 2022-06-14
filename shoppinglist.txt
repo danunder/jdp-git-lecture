@@ -3,7 +3,8 @@ bananas
 carrots
 durian
 eggplant
-fennel
-grapes
 milk
 icecream
+twine
+bobby pins
+
